@@ -21,9 +21,9 @@
 ---
 
 <div align = "left">
-  <a href="https://github.com/rafaballerini">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=samuelkarlosdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelkarlosdev&layout=compact&langs_count=16&theme=dark"/>
+  <a href="https://github.com/samuelkarlosdev">
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelkarlosdev&show_icons=true&theme=dark&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=samuelkarlosdev&show_icons=true&show_icons=true&theme=dark&count_private=true" />
 </div>
 
   
