@@ -3,7 +3,7 @@
 # 👨‍💻 Olá, bem-vindo ao meu GitHub!
 
 - 💙 Apaixonado por Desenvolvimento Mobile!
-- 👩‍💻 Aprendendo Dart/Flutter
+- 👩‍💻 Dart/Flutter
 
 
 
