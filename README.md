@@ -2,11 +2,12 @@
 
 # 👨‍💻 Olá, bem-vindo ao meu GitHub!
 
-- 💙 Apaixonado por Desenvolvimento Mobile!
-
-
-
-<div style="display: inline_block"><br>  
+- 💙 Apaixonado por Desenvolvimento Mobile
+          
+<div style="display: inline_block"><br> 
+  <img align="center" alt="SK-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />  
+  <img align="center" alt="SK-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="SK-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />   
   <img align="center" alt="SK-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="SK-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />   
   <img align="center" alt="SK-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
